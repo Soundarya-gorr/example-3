@@ -1,0 +1,2 @@
+name=madhu
+print(name)
