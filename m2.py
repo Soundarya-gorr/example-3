@@ -1,0 +1,2 @@
+name=mamata
+print(name)
